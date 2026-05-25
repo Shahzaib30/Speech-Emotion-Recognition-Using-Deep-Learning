@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenvs
+.venv/
+env/
+venv/
+
+# Data and models
+data/
+*.pth
+*.pt
+*.h5
+*.tar.gz
+
+# Outputs
+outputs/
+results/
+
+# Jupyter
+.ipynb_checkpoints
